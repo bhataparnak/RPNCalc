@@ -15,3 +15,17 @@ $ npm run start
 1) To quit the application enter 'q' 
 2) To reset the application and start the calculations from the beginning enter 'r'.
 
+## Sample Inputs and outputs
+1) 
+> 6 2 +
+8
+
+2)
+> 12
+12
+> 4
+4
+> *
+48
+
+
