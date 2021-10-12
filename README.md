@@ -18,14 +18,25 @@ $ npm run start
 ## Sample Inputs and outputs
 1) 
 > 6 2 +
+
 8
 
 2)
 > 12
+
 12
+
 > 4
+
 4
+
 > *
+
 48
+
+3)
+> 2 2 3 + *
+
+10
 
 
