@@ -39,4 +39,8 @@ $ npm run start
 
 10
 
+## About The App
 
+This application is built using Node.js. 
+Unit tests are not included which can make this application even better. 
+big.js library is used to perform calculations to avoid floating point accuracy error. Regular expression is used for validating the given input expression.
